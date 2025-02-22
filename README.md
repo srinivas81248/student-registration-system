@@ -151,9 +151,3 @@ Database Integration:
 Replace local storage with a backend database (e.g., Firebase, MongoDB).
 
 
-Contact
-If you have any questions or suggestions, feel free to reach out:
-
-Email: 
-
-GitHub: your-username
