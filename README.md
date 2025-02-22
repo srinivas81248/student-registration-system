@@ -117,7 +117,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/student-registration-system.git
+git clone https://github.com/srinivas81248/student-registration-system.git
 Install Dependencies:
 
 bash
@@ -154,6 +154,6 @@ Replace local storage with a backend database (e.g., Firebase, MongoDB).
 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: your-email@example.com
+Email: 
 
 GitHub: your-username
